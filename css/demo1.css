@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+p{
+    color: :#008b8b;
+    font-size: 16px;
+    font-family: "Times New Roman";
+    font-weight: 400;
+    text-align: left;/*left right center justify*/
+    text-decoration: none;/* line-through underine overline none */
+}
+a{
+    text-decoration: none;
+    color: red;
+}
